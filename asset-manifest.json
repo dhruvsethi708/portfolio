@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.53fa8dc3.chunk.css",
+    "main.js": "/portfolio/static/js/main.e0fcff3b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e0fcff3b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/css/2.0f711de9.chunk.css": "/portfolio/static/css/2.0f711de9.chunk.css",
+    "static/js/2.e544b21b.chunk.js": "/portfolio/static/js/2.e544b21b.chunk.js",
+    "static/js/2.e544b21b.chunk.js.map": "/portfolio/static/js/2.e544b21b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.0f711de9.chunk.css.map": "/portfolio/static/css/2.0f711de9.chunk.css.map",
+    "static/css/main.53fa8dc3.chunk.css.map": "/portfolio/static/css/main.53fa8dc3.chunk.css.map",
+    "static/js/2.e544b21b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e544b21b.chunk.js.LICENSE.txt",
+    "static/media/ChatApplication.78c47358.jpg": "/portfolio/static/media/ChatApplication.78c47358.jpg",
+    "static/media/Dhruv's Resume.3458c544.pdf": "/portfolio/static/media/Dhruv's Resume.3458c544.pdf",
+    "static/media/RealEstate.954051f5.jpg": "/portfolio/static/media/RealEstate.954051f5.jpg",
+    "static/media/SortingVisualizer.8172f31a.jpg": "/portfolio/static/media/SortingVisualizer.8172f31a.jpg",
+    "static/media/avatar.7a921a74.jpg": "/portfolio/static/media/avatar.7a921a74.jpg",
+    "static/media/dhruv_cartoon.708ab314.png": "/portfolio/static/media/dhruv_cartoon.708ab314.png",
+    "static/media/spinner.b9b995c8.svg": "/portfolio/static/media/spinner.b9b995c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f76519.js",
+    "static/css/2.0f711de9.chunk.css",
+    "static/js/2.e544b21b.chunk.js",
+    "static/css/main.53fa8dc3.chunk.css",
+    "static/js/main.e0fcff3b.chunk.js"
+  ]
+}
